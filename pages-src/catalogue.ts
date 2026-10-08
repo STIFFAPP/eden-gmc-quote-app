@@ -1,15 +1,5 @@
 export const catalogue = [
   {
-    "id": "sheet0",
-    "category": "Category",
-    "name": "Service",
-    "unit": "Unit",
-    "low": "Low rate (£)",
-    "high": "High rate (£)",
-    "minimum": "Minimum (£)",
-    "notes": "Quote conditions"
-  },
-  {
     "id": "sheet1",
     "category": "Pressure washing",
     "name": "Driveway, patio or path wash",
